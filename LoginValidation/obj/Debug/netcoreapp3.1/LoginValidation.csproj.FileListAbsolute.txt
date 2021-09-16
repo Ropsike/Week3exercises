@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.csproj.CoreCompileInputs.cache

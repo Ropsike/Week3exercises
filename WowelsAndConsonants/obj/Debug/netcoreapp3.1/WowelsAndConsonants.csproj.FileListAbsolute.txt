@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\bin\Debug\netcoreapp3.1\WowelsAndConsonants.exe
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\bin\Debug\netcoreapp3.1\WowelsAndConsonants.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\bin\Debug\netcoreapp3.1\WowelsAndConsonants.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\bin\Debug\netcoreapp3.1\WowelsAndConsonants.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\bin\Debug\netcoreapp3.1\WowelsAndConsonants.dll
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\bin\Debug\netcoreapp3.1\WowelsAndConsonants.pdb
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\obj\Debug\netcoreapp3.1\WowelsAndConsonants.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\obj\Debug\netcoreapp3.1\WowelsAndConsonants.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\obj\Debug\netcoreapp3.1\WowelsAndConsonants.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\obj\Debug\netcoreapp3.1\WowelsAndConsonants.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\obj\Debug\netcoreapp3.1\WowelsAndConsonants.dll
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\obj\Debug\netcoreapp3.1\WowelsAndConsonants.pdb
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\WowelsAndConsonants\obj\Debug\netcoreapp3.1\WowelsAndConsonants.genruntimeconfig.cache
